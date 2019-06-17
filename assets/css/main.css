@@ -1973,9 +1973,11 @@ button.large,
     margin-top: 0;
   }
 }
-section .tech-logo {
-  width: 100%;
-  height: 350px;
+.tech-card {
+  height: 500px;
+}
+.tech-card .tech-logo {
+  width: 80%;
 }
 
 /*# sourceMappingURL=main.css.map */
