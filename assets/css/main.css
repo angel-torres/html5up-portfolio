@@ -1974,7 +1974,7 @@ button.large,
   }
 }
 .tech-card {
-  height: 200px;
+  height: 240px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -1982,6 +1982,14 @@ button.large,
 }
 .tech-card .tech-logo {
   width: 50%;
+}
+
+.project {
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 /*# sourceMappingURL=main.css.map */
