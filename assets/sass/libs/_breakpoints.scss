@@ -175,7 +175,7 @@
 									}
 
 								// Greater than (> y)
-									@elseif ($op == 'gt') {
+									@else if ($op == 'gt') {
 										$media: 'screen and (min-width: ' + ($y + 1) + ')';
 									}
 

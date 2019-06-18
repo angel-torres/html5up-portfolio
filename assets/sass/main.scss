@@ -1195,9 +1195,13 @@
 	}
 
 .tech-card {
-	height: 500px;
-	.tech-logo {
-		width: 80%;
-	}
+	height: 200px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 
+	.tech-logo {
+		width: 50%;
+	}
 }
