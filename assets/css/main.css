@@ -1630,7 +1630,7 @@ ul.actions li:first-child {
 
 /* Nav */
 #nav {
-  background-color: #3d3c3c;
+  background-color: #282828;
   text-align: center;
   position: fixed;
   left: 0;
@@ -1669,7 +1669,7 @@ ul.actions li:first-child {
 }
 #nav a:hover {
   color: #fff !important;
-  background: #474747;
+  background: #383838;
 }
 #nav a.active {
   background: #484848;
